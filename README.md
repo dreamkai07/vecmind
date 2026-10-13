@@ -1,4 +1,4 @@
-# VectorDB — Build a Vector Database from Scratch in C++,Java
+# VectorDB — Build a Vector Database from Scratch in C++
 
 
 A fully working **Vector Database** built from scratch in C++ with a web UI.  
